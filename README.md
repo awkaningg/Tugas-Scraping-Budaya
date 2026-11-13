@@ -42,8 +42,3 @@ Disusun oleh: **Clementin Christianingsi Mune Harum** (NIM: **2501010363**)
 3. Pastikan variabel identitas (`NAMA_MAHASISWA`, `NIM`, `EMAIL_KAMPUS`) pada bagian awal notebook sudah terisi.
 4. Jalankan seluruh sel dari awal hingga akhir melalui menu **Runtime -> Restart session and run all**.
 """
-
-with open("README.md", "w", encoding="utf-8") as f_readme:
-    f_readme.write(readme_teks)
-
-print("Semua berkas dan README.md berhasil dibuat dengan sukses!")
