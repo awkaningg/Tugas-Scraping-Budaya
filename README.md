@@ -2,7 +2,7 @@
 
 readme_teks = f"""# RTM 1 - Akuisisi Data Publik: {NAMA_SUMBER}
 
-Disusun oleh: **{NAMA_MAHASISWA}** (NIM: **{NIM}**)
+Disusun oleh: **Clementin Christianingsi Mune Harum** (NIM: **2501010363**)
 
 ## 1. Sumber Data
 * **Nama Sumber:** {NAMA_SUMBER}
