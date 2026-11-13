@@ -1,6 +1,6 @@
 # Tugas Scraping Budaya
 
-# RTM 1 - Akuisisi Data Publik: Museum Nasional Indonesia
+# Akuisisi Data Publik: Museum Nasional Indonesia
 
 Disusun oleh: **Clementin Christianingsi Mune Harum** (NIM: **2501010363**)
 
